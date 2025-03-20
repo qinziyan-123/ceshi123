@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: "src",    // 输入文件夹
-      output: "dist",  // 输出文件夹
+      output: "docs",  // 输出文件夹
       // includes: "_includes", // 模板文件存放目录
       // layouts: "_layouts" // 布局文件存放目录
     },
